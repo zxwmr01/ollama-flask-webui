@@ -27,7 +27,7 @@ A Flask-based AI chat application with Ollama integration, Bing search capabilit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/local-ai-chat-room.git
+git clone https://github.com/zxwmr01/local-ai-chat-room.git
 cd local-ai-chat-room
 ```
 
