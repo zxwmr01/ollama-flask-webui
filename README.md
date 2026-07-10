@@ -34,11 +34,7 @@ cd local-ai-chat-room
 pip install -r requirements.txt
 ```
 
-3. Install Ollama models:
-```bash
-ollama pull deepseek-r1:1.5b
-ollama pull qwen3:4b
-```
+3. Install Ollama models
 
 ## Usage
 
