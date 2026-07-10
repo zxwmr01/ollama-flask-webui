@@ -34,7 +34,11 @@ cd local-ai-chat-room
 pip install -r requirements.txt
 ```
 
-3. Install Ollama models
+3. Install Ollama models（Example: DeepSeek-R1 and Qwen3）:
+```bash
+ollama pull deepseek-r1:1.5b
+ollama pull qwen3:4b
+```
 
 ## Usage
 
@@ -99,7 +103,8 @@ local-ai-chat-room/
 ├── app.py              # Main Flask application
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Git ignore rules
-├── README.md           # Project documentation
+├── README.md           # Project documentation (English)
+├── README_CN.md        # Project documentation (Chinese)
 └── templates/
     └── index.html      # Frontend chat interface
 ```
