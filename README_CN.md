@@ -25,7 +25,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/local-ai-chat-room.git
+git clone https://github.com/zxwmr01/local-ai-chat-room.git
 cd local-ai-chat-room
 ```
 
@@ -111,7 +111,7 @@ local-ai-chat-room/
 
 ## 许可证
 
-MIT License
+[MIT License](LICENSE)
 
 ## 贡献
 
