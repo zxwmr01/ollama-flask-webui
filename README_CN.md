@@ -99,7 +99,7 @@ SECRET_KEY=your-secret-key-here
 ## 项目结构
 
 ```
-local-ai-chat-room/
+ollama-flask-webui/
 ├── app.py              # 主 Flask 应用
 ├── requirements.txt    # Python 依赖
 ├── .gitignore          # Git 忽略规则
