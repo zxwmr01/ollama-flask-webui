@@ -126,3 +126,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - HTML parsing
 - [Highlight.js](https://highlightjs.org/) - Code highlighting
 - [Marked](https://marked.js.org/) - Markdown parsing
+- [Trae CN](https://www.trae.cn/) - Coding Assistant
