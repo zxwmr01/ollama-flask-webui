@@ -101,7 +101,7 @@ Other models will use a generic thinking format that works with most open-source
 ## Project Structure
 
 ```
-local-ai-chat-room/
+ollama-flask-webui/
 ├── app.py              # Main Flask application
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Git ignore rules
