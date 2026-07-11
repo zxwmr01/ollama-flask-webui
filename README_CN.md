@@ -1,4 +1,4 @@
-# Local AI Chat Room
+# Ollama Flask Webui
 
 一个基于 Flask 的 AI 聊天应用，集成了 Ollama、Bing 搜索和 GPU 监控功能。
 
