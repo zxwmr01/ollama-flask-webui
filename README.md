@@ -1,4 +1,4 @@
-# Local AI Chat Room
+# Ollama Flask Webui
 
 [English](README.md) | [中文](README_CN.md)
 
